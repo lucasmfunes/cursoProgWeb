@@ -2,7 +2,7 @@ var numero1 = prompt('Coloca un numero:', 'Ejemplo 4')
 
 var parsedNumero1 = parseFloat(numero1, 10)
 
-var numero2 = prompt('Coloca otro:', 'Ej: 7')
+var numero2 = prompt('Coloca otro:', 'Ejemplo 7')
 
 var parsedNumero2 = parseFloat(numero2, 10)
 
